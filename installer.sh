@@ -12,8 +12,8 @@
 
 PACKAGE_DIR='TMBD/main'
 
-MY_IPK="enigma2-plugin-extensions-TMBD_8.6-r3-by-Dima73-Mod-RAED_PY3.ipk"
-MY_DEB="enigma2-plugin-extensions-TMBD_8.6-r3-by-Dima73-Mod-RAED_DreamOS.deb"
+MY_IPK="TMBD_8.6-r4-by-Dima73-Mod-RAED_Py3.ipk"
+MY_DEB="TMBD_8.6-r4-by-Dima73-Mod-RAED_DreamOS.deb"
 
 ########################################################################################################################
 # Auto ... Do not change
