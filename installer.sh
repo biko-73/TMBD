@@ -12,8 +12,8 @@
 
 PACKAGE_DIR='TMBD/main'
 
-MY_IPK="TMBD_8.6-r4-by-Dima73-Mod-RAED_Py3.ipk"
-MY_DEB="TMBD_8.6-r4-by-Dima73-Mod-RAED_DreamOS.deb"
+MY_IPK="TMBD_8.6-r6-by-Dima73-Mod-RAED_Py3.ipk"
+MY_DEB="TMBD_8.6-r6-by-Dima73-Mod-RAED_DreamOS.deb"
 
 ########################################################################################################################
 # Auto ... Do not change
